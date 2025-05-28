@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Node.js
+node_modules/
+
+
+
+# VSCode and IDEs
+.vscode/
+.idea/
+
+
+# Jupyter
+.ipynb_checkpoints/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.cache/
