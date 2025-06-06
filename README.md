@@ -190,4 +190,3 @@ Based on the requirements, the following assumptions were made:
 - No personal image data transmitted over network
 
 
-**This project is a part of a hackathon run by https://katomaran.com**
